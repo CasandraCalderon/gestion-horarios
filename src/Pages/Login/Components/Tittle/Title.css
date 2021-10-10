@@ -1,0 +1,10 @@
+.Title-container label {
+    color : purple;
+    font-size: 30px;
+    text-align: center;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+
+}
